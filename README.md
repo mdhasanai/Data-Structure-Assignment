@@ -30,6 +30,7 @@ d i d − 0 . 0 6 2 5 : 14
 not − 0 . 0 6 2 5 : 15
 c a r e − 0 . 0 6 2 5 : 16
 
+
 Please note that this example is extremely small. Your program should be written so that it can
 handle an arbitrary number of words, appearing in an arbitrary number of positions. You can also
 assume that to receive good marks, your program must reliably work with files larger than 1 MB.
