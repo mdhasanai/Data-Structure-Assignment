@@ -12,9 +12,9 @@ The quick brown fox jumps over the lazy dog. However, the dog really did not car
 
 The output should be the following:
 
-T o t a l number o f words : 16
+Total number of words : 16
 
-Word f r e q u e n c i e s and p o s i t i o n s :
+Word frequencies and positions :
 
 the − 0 . 1 8 7 5 : 1 ,7 ,11
 
